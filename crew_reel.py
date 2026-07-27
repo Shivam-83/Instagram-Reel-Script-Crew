@@ -1,5 +1,5 @@
 import os
-from streamlit import st
+import streamlit as st
 from dotenv import load_dotenv
 from crewai import Crew, Task, Agent, Process, LLM
 
