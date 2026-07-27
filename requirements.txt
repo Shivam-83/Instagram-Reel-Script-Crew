@@ -1,5 +1,4 @@
 streamlit
 crewai==0.150.0
-chromadb==0.5.23
-pydantic==2.11.7
 python-dotenv
+google-generativeai
